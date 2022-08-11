@@ -4,5 +4,8 @@
     box-sizing: border-box;
 }
 .navbar{
-    background-color: crimson;
+    font-size: 90%;
+}
+.header{
+    background-color: #e48062;
 }
