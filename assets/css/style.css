@@ -7,14 +7,17 @@
 .navbar{
     background-color: antiquewhite;
     text-decoration-line:underline ;
+    color: #2C2B2B;
+
 }
 h2{
     padding: 3%;
     font-size: 200%;
-   
-
+    color: #2C2B2B;
 }
-
+h1{
+    font-size: 80%;
+}
 .header{
     display: flex;
     flex-direction: column;
@@ -27,8 +30,9 @@ h2{
     margin-left: 50%;
 
 }
-.correo, .direccion{
+.correo, .direccion, .numero{
     font-size: 150%;
+    color: #2C2B2B;
 }
 .informacionP{
     background-color: #c76354;
