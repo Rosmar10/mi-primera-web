@@ -1,14 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 .navbar{
-    text-align: center;
-    margin-left: 35%;
+    background-color: antiquewhite;
+    text-decoration-line:underline ;
 }
 h2{
     padding: 3%;
+    font-size: 200%;
+   
+
 }
 
 .header{
@@ -26,4 +30,8 @@ h2{
 .correo, .direccion{
    color: black;
    font-size: 150%;
+}
+.informacionP{
+    background-color: #E54C35;
+    border-radius: 5%;
 }
