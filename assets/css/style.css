@@ -42,11 +42,16 @@ h2{
     margin-top: 10%;
 }
 
-.resumen{
+.resumen, .formacion{
     text-align: center;
     font-size: 150%;
 }
 
 .texto-resumen{
-    font-size: large;
+    font-size: 55%;
+    text-align: center;
+    margin-top: 6%;
+}
+.hr{
+    margin-top: 10%;
 }
