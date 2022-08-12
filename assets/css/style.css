@@ -12,11 +12,15 @@ h2{
 }
 
 .header{
+    display: flex;
+    flex-direction: column;
     color: aliceblue;
     font-size: large;
     text-align: center;
     background-color: #e48062;
-    padding: 5%;
-    
+    padding: 1%;
 
+}
+.d-flex{
+    margin-left: 50%;
 }
