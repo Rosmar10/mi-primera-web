@@ -21,17 +21,28 @@ h2{
     font-size: 50%;
     text-align: center;
     padding: 1%;
-
+   
 }
 .d-flex{
     margin-left: 50%;
 
 }
 .correo, .direccion{
-   color: black;
-   font-size: 150%;
+    font-size: 150%;
 }
 .informacionP{
-    background-color: #E54C35;
-    border-radius: 5%;
+    background-color: #c76354;
+    border-radius: 9%;
+    font-size: 60%;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container{
+    margin-top: 10%;
+}
+
+.resumen{
+    text-align: center;
+    font-size: 150%;
 }
