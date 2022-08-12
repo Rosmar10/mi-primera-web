@@ -14,10 +14,8 @@ h2{
 .header{
     display: flex;
     flex-direction: column;
-    color: aliceblue;
-    font-size: large;
+    font-size: 50%;
     text-align: center;
-    background-color: #e48062;
     padding: 1%;
 
 }
@@ -25,6 +23,7 @@ h2{
     margin-left: 50%;
 
 }
-.container{
-   
+.correo, .direccion{
+   color: black;
+   font-size: 150%;
 }
