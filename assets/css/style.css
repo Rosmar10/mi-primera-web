@@ -5,12 +5,18 @@
 }
 .navbar{
     text-align: center;
-    font-size: 90%;
     margin-left: 35%;
 }
+h2{
+    padding: 3%;
+}
+
 .header{
     color: aliceblue;
     font-size: large;
     text-align: center;
     background-color: #e48062;
+    padding: 5%;
+    
+
 }
